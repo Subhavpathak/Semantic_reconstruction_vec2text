@@ -209,7 +209,8 @@ This project builds upon insights from the following papers:
 4. **Gu et al. (2024)** — *invBERT: Text Reconstruction from Contextualized Embeddings*
 5. **Chen et al. (2024)** — *Zero2Text: Training-Free Zero-Shot Text Reconstruction*
 6. **Niu et al. (2025)** — *ZSInvert: Zero-Shot Embedding Inversion*
-
+   
+For a detailed analysis, see our [Literature Survey Report](Literature_Survey_Report.md).
 
 ---
 
